@@ -1,0 +1,11 @@
+<lDOCTYPEhtml>
+<script>
+alert("you have
+accessed this page at:"+ Date()):
+</script>
+<html>
+<head<
+>title>My First Web Page</title>
+</head>
+<body> 
+<hi>welcome to  my studio</h1>
